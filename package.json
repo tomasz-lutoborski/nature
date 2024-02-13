@@ -1,0 +1,11 @@
+{
+  "name": "nature",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.27.3"
+  },
+  "dependencies": {
+    "p5": "^1.9.0"
+  }
+}
