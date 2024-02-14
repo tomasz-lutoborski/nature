@@ -1,7 +1,7 @@
 (ns core
   (:require [quil.core :as q :include-macros true]
             [quil.middleware :as m]
-            [vectors.mouse-direction :as sketch]))
+            [forces.friction :as sketch]))
 
 ; this function is called in index.html
 (defn ^:export run-sketch []

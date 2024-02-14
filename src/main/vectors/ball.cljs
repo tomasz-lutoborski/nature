@@ -1,5 +1,4 @@
-(ns vectors.ball
-  (:require [quil.core :as q])
+(ns vectors.ball (:require [quil.core :as q])
   (:require [utils.slider :as slider]))
 
 (def ball-radius 20)
